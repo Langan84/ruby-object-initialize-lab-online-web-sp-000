@@ -9,5 +9,3 @@ class Person
   end
 
 end
-
-
