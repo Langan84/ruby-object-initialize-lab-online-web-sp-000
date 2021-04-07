@@ -1,6 +1,6 @@
 class Dog
 
-attr_accesor :name
+attr_accessor :name
 
   def initialize
     @name
@@ -8,5 +8,5 @@ attr_accesor :name
 
 
 
-  
+
 end
