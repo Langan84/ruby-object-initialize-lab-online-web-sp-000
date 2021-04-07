@@ -7,5 +7,4 @@ class Dog
   end
 
 
-
 end
