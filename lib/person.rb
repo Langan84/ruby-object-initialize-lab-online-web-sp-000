@@ -1,11 +1,13 @@
 
 class Person
 
+  
+  attr_accessor :name
+
   def initialize(name)
     @name
   end
 
-attr_accessor :name
 end
 
 Beyonce = Person.new("Beyonce")
